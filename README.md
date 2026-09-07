@@ -4,7 +4,7 @@ This repository contains my **42 Tokyo C Piscine** projects from 2026, including
 
 ## About 42
 
-[42](https://42.fr/) is a peer-to-peer software engineering school built around project-based learning. Instead of traditional lectures, students learn by solving progressively harder projects, researching independently, collaborating with peers, and reviewing each other's work.
+[42](https://42tokyo.jp/) is a peer-to-peer software engineering school built around project-based learning. Instead of traditional lectures, students learn by solving progressively harder projects, researching independently, collaborating with peers, and reviewing each other's work.
 
 ## About the C Piscine
 
