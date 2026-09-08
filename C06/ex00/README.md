@@ -1,6 +1,6 @@
 # ex00 - ft_print_program_name
 
-[Subject PDF](../C06_subject.pdf)
+[← Back to C06](../README.md) · [Subject PDF](../C06_subject.pdf)
 
 ## Task
 

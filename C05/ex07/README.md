@@ -1,6 +1,6 @@
 # ex07 - ft_find_next_prime
 
-[Subject PDF](../C05_subject.pdf)
+[← Back to C05](../README.md) · [Subject PDF](../C05_subject.pdf)
 
 ## Task
 
