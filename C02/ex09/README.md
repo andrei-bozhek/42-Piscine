@@ -1,6 +1,6 @@
 # ex09 - ft_strcapitalize
 
-[Subject PDF](../C02_subject.pdf)
+[← Back to C02](../README.md) · [Subject PDF](../C02_subject.pdf)
 
 ## Task
 

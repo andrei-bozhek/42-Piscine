@@ -1,6 +1,6 @@
 # ex01 - ft_strncpy
 
-[Subject PDF](../C02_subject.pdf)
+[← Back to C02](../README.md) · [Subject PDF](../C02_subject.pdf) · [Library manual](./man.md)
 
 ## Task
 

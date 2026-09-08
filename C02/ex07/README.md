@@ -1,6 +1,6 @@
 # ex07 - ft_strupcase
 
-[Subject PDF](../C02_subject.pdf)
+[← Back to C02](../README.md) · [Subject PDF](../C02_subject.pdf)
 
 ## Task
 
