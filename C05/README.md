@@ -2,7 +2,7 @@
 
 Iterative and recursive mathematics: factorials, powers, Fibonacci, square roots, primes, and the Ten Queens puzzle.
 
-**Subject:** [C05_subject.pdf](./C05_subject.pdf)
+[← Back to main README](../README.md) · [C05_subject.pdf](./C05_subject.pdf)
 
 ## Exercises
 

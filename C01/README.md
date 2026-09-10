@@ -2,7 +2,7 @@
 
 Pointers, multiple levels of indirection, arrays, swapping, string output, reversing, and sorting.
 
-**Subject:** [C01_subject.pdf](./C01_subject.pdf)
+[← Back to main README](../README.md) · [C01_subject.pdf](./C01_subject.pdf)
 
 ## Exercises
 

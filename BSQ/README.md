@@ -40,3 +40,16 @@ The source code is located in [`bsq`](./bsq/).
 cd bsq
 make
 ./bsq map.txt
+```
+
+Multiple maps can be processed in one call:
+
+```sh
+./bsq map1.txt map2.txt
+```
+
+Without arguments, the program reads from standard input:
+
+```sh
+cat map.txt | ./bsq
+```

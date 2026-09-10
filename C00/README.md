@@ -2,7 +2,7 @@
 
 Introduction to C output, loops, integer formatting, and combinations using only `write` where permitted.
 
-**Subject:** [C00_subject.pdf](./C00_subject.pdf)
+[← Back to main README](../README.md) · [C00_subject.pdf](./C00_subject.pdf)
 
 ## Exercises
 
